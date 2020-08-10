@@ -1,6 +1,6 @@
-# bloc6_use
+# bloc 6.0.1
 
-A new Flutter project.
+This is an example how to use bloc 6.0.1 using latest Cubit. I will keep updating the app with latest version of app.
 
 ## Getting Started
 
